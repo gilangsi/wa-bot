@@ -161,7 +161,7 @@ pls dont remove my github link:)
 | Leave all group|✅|
 | Delete all msgs|✅|
 | Banned user|✅|
-
+Masih banyak bug |💭|
 
 ## To-Do
  - Add Media Downloader
